@@ -5,21 +5,21 @@ Technologys used:
 ----------------------------
 Package            Version
 ------------------ --------
-1.asgiref            3.5.0
-2.backports.zoneinfo 0.2.1
-3.Django             4.0.1
-4.django-environ     0.8.1
-5.fsspec             2022.1.0
-6.numpy              1.22.1
-7.pandas             1.4.0
-8.pip                21.3.1
-9.python-dateutil    2.8.2
-10.pytz               2021.3
-11.setuptools         60.2.0
-12.six                1.16.0
-13.sqlparse           0.4.2
-14.tzdata             2021.5
-15.wheel              0.37.1
+-asgiref            3.5.0
+-backports.zoneinfo 0.2.1
+-Django             4.0.1
+-django-environ     0.8.1
+-fsspec             2022.1.0
+-numpy              1.22.1
+-pandas             1.4.0
+-pip                21.3.1
+-python-dateutil    2.8.2
+-pytz               2021.3
+-setuptools         60.2.0
+-six                1.16.0
+-sqlparse           0.4.2
+-tzdata             2021.5
+-wheel              0.37.1
 
 
 The Goal of this Project was to use the Popular Python package Pandas Data Analysis Package with a Django Web App to read data from a CSV file(excel file). 
